@@ -26,15 +26,14 @@ Swift, Objective C,& server side framework of Perfect.
 
 ## What technologies do you plan to use?
 Swift
-Angular
-Bootstrap/Materialize
-Xcode
+Javascript
+Websockets
 Illustrator
 Atom
+Xcode
 Pivotal Tracker
-Objective C
 
 ## Feature list
-Ability to host games, join games, and play games
-Also, ability to track game scores
+Ability to join games and play games
+Ability to track game scores
 Stretch: Ability to share a funny win cards on a social media platform, prob. Facebook.
